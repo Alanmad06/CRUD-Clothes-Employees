@@ -1,4 +1,26 @@
-| CRUD Application that simulates a chlothing store , built 100% Java w/ GUI swing , Login , Register , CRUD employees and chlotes, also able to modifying the owner , DB : MySql |
+| A desktop application simulating a clothing store management system, developed entirely in Java with a Swing-based graphical user interface. It features user authentication and allows for comprehensive CRUD operations on clothing items, employees, and store owner details.​
+
+🧾 Features
+User Authentication: Secure login and registration functionalities.
+
+Clothing Management: Add, edit, and delete clothing items.
+
+Employee Management: Manage employee records with full CRUD capabilities.
+
+Owner Details: Modify store owner information as needed.
+
+Database Integration: Utilizes MySQL for robust data storage and retrieval.
+
+Intuitive GUI: User-friendly interface built with Java Swing for seamless navigation.​
+
+🛠 Technologies Used
+Programming Language: Java
+
+GUI Framework: Swing
+
+Database: MySQL
+
+Project Structure: NetBeans IDE |
 ![image](https://github.com/Alanmad06/CRUD-Cloths/assets/130498439/65d70016-dc61-469b-b515-3a75f4a6cbd2)
 ![image](https://github.com/Alanmad06/CRUD-Cloths/assets/130498439/e48880e6-89ef-4e6d-8158-57319c6e807e)
 ![image](https://github.com/user-attachments/assets/7f5373a2-6d86-442b-b43d-3f7c2cb842ff)
