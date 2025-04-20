@@ -2,16 +2,25 @@
 
 🧾 Features
 User Authentication: Secure login and registration functionalities.
+
 Clothing Management: Add, edit, and delete clothing items.
+
 Employee Management: Manage employee records with full CRUD capabilities.
+
 Owner Details: Modify store owner information as needed.
+
 Database Integration: Utilizes MySQL for robust data storage and retrieval.
+
 Intuitive GUI: User-friendly interface built with Java Swing for seamless navigation.​
 
 🛠 Technologies Used
+
 Programming Language: Java
+
 GUI Framework: Swing
+
 Database: MySQL
+
 Project Structure: NetBeans IDE |
 
 ![image](https://github.com/Alanmad06/CRUD-Cloths/assets/130498439/65d70016-dc61-469b-b515-3a75f4a6cbd2)
